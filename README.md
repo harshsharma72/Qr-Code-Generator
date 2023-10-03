@@ -22,4 +22,4 @@ This project uses the [QR Code API](https://api.qrserver.com/v1/create-qr-code/?
 
 ## Credits
 
-This project was created by [Harsh Sharma]. Feel free to contribute and make improvements!
+This project was created by Harsh Sharma. Feel free to contribute and make improvements!
